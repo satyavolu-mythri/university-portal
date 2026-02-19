@@ -9,7 +9,7 @@ function Home() {
       <section>
         <h2>Announcements</h2>
         <ul>
-          <li>Semester exams start from 1st December.</li>
+          <li>Semesterssssstart from 1st December.</li>
           <li>New library resources available online.</li>
           <li>Join the upcoming webinar on career opportunities.</li>
         </ul>
