@@ -20,7 +20,7 @@ function Attendance() {
 
   return (
     <div>
-      <h2>Mark Attendance</h2>
+      <h2>Mark as  Attendance</h2>
 
       <input placeholder="Student ID"
              onChange={e => setStudentId(e.target.value)} />
