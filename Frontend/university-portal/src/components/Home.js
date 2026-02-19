@@ -3,7 +3,7 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <h1>Welcome to Veltech University Portal</h1>
+      <h1>Welcome to The Veltech University Portal</h1>
       <p>Access your courses, grades, and more.</p>
 
       <section>
