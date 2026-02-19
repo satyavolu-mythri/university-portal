@@ -32,8 +32,8 @@ function Attendance() {
              onChange={e => setDate(e.target.value)} />
 
       <select onChange={e => setStatus(e.target.value)}>
-        <option>PRESENT</option>
-        <option>ABSENT</option>
+        <option>Present</option>
+        <option>Absent</option>
       </select>
 
       <button onClick={submitAttendance}>
